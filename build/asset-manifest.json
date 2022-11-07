@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.812954ef.chunk.css",
+    "main.js": "/static/js/main.d469c2dc.chunk.js",
+    "main.js.map": "/static/js/main.d469c2dc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3ce9e72.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3ce9e72.js.map",
+    "static/js/2.9ec29cff.chunk.js": "/static/js/2.9ec29cff.chunk.js",
+    "static/js/2.9ec29cff.chunk.js.map": "/static/js/2.9ec29cff.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/main.812954ef.chunk.css.map": "/static/css/main.812954ef.chunk.css.map",
+    "static/js/2.9ec29cff.chunk.js.LICENSE.txt": "/static/js/2.9ec29cff.chunk.js.LICENSE.txt",
+    "static/media/Fats.ddb0d426.jpg": "/static/media/Fats.ddb0d426.jpg",
+    "static/media/Fruits.9e3315e1.jpg": "/static/media/Fruits.9e3315e1.jpg",
+    "static/media/Protein.ae05b258.jpg": "/static/media/Protein.ae05b258.jpg",
+    "static/media/dairy.00e60176.jpg": "/static/media/dairy.00e60176.jpg",
+    "static/media/fish.ef9752ef.jpg": "/static/media/fish.ef9752ef.jpg",
+    "static/media/foods.2fe469ec.mp4": "/static/media/foods.2fe469ec.mp4",
+    "static/media/logo2s.23aa96e6.png": "/static/media/logo2s.23aa96e6.png",
+    "static/media/logoss.c9193e43.png": "/static/media/logoss.c9193e43.png",
+    "static/media/meat.111f30aa.jpg": "/static/media/meat.111f30aa.jpg",
+    "static/media/veg.08a93c27.jpg": "/static/media/veg.08a93c27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ce9e72.js",
+    "static/js/2.9ec29cff.chunk.js",
+    "static/css/main.812954ef.chunk.css",
+    "static/js/main.d469c2dc.chunk.js"
+  ]
+}
